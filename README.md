@@ -1,5 +1,4 @@
-# Titanicdataset_cleaning
-# Data-Cleaning-python
+
 # Data Cleaning and Exploration: Titanic Dataset
 
 This project involves cleaning and exploring the Titanic dataset. We perform data cleaning tasks such as handling missing values, encoding categorical variables, and visualizing key insights.
